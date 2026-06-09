@@ -1,1 +1,1 @@
-# Real-Life-OR-Scheduling-Data-Using-Ant-Colony-Optimization-and-Genetic-Algorithm-at-UZGent
+# Dynamic Resource Allocation for 6G Internet using ACO + GA Algorithm
